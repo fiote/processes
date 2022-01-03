@@ -1,0 +1,30 @@
+{
+  "name": "@fiote/processes",
+  "version": "0.1.0",
+  "description": "NPM module to set up a nodejs express hook so you can see what processes are running remotely.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiote/processes.git"
+  },
+  "main": "processes.js",
+  "keywords": [
+    "npm",
+    "nodejs",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "bugs": {
+    "url": "https://github.com/fiote/processes/issues"
+  },
+  "homepage": "https://github.com/fiote/processes#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fiote"
+}
